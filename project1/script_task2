@@ -1,0 +1,31 @@
+Script started on Fri 30 Jun 2023 10:11:01 PM CDT
+]0;el8524jv@csci4:~/csci301/project1[?1034h[el8524jv@csci4 project1]$ script./a.out
+Enter the numerator and denominator of the first fraction in the format (a b): 2 3
+Enter the numerator and denominator of the second fraction in the format (a b): 4 5
+2/3
+4/5
+22/15
+-2/15
+8/15
+10/12
+]0;el8524jv@csci4:~/csci301/project1[el8524jv@csci4 project1]$ ./a.out
+Enter the numerator and denominator of the first fraction in the format (a b): 6 7
+Enter the numerator and denominator of the second fraction in the format (a b): 8 4
+6/7
+8/4
+80/28
+-32/28
+48/28
+24/56
+]0;el8524jv@csci4:~/csci301/project1[el8524jv@csci4 project1]$ ./a.out
+Enter the numerator and denominator of the first fraction in the format (a b): 3 6
+Enter the numerator and denominator of the second fraction in the format (a b): 7 2
+3/6
+7/2
+48/12
+-36/12
+21/12
+6/42
+]0;el8524jv@csci4:~/csci301/project1[el8524jv@csci4 project1]$ exit
+
+Script done on Fri 30 Jun 2023 10:11:49 PM CDT
