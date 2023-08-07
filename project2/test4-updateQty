@@ -1,0 +1,48 @@
+Script started on Mon Jul  3 20:32:06 2023
+[1m[7m%[27m[1m[0m                                                                                                               [0m[27m[24m[Jalgassimou@Algassimous-MacBook-Pro project2 % [K[?2004h./a.out[?2004l
+Welcome to XXX SHOPPING CENTER.
+Enter the item you selected as the following order:
+name unitPrice quantity
+pen 34 1
+Want to continue y/n--> y
+Enter the item you selected as the following order:
+name unitPrice quantity
+dog 3 1
+Want to continue y/n--> y
+Enter the item you selected as the following order:
+name unitPrice quantity
+cat 34 1
+Want to continue y/n--> y
+Enter the item you selected as the following order:
+name unitPrice quantity
+car 34 2
+Want to continue y/n--> n
+Here is your order:
+-------------------------------------------------
+Name  Unit_Price Quantity
+pen     $34        1
+dog     $3        1
+cat     $34        1
+car     $34        2
+The total charge is $139.00
+--------------------------------------------------
+Want to modify your order? y/n--> y
+What do you want? Enter 1: add 2: remove 3: change quantity
+3
+Enter the item to change as the following order:
+name unitPrice quantity
+dog 3 1
+Enter a new quantity --> 2
+The quantity has been modified.
+Want to modify your order? y/n--> n
+Here is your order:
+-------------------------------------------------
+Name  Unit_Price Quantity
+pen     $34.00        1
+dog     $3.00        1
+cat     $34.00        1
+car     $34.00        2
+The total charge is $139.00
+--------------------------------------------------
+Thanks for shopping in XXX SHOPPING CENTER.
+[1m[7m%[27m[1m[0m                                                                                                               [0m[27m[24m[Jalgassimou@Algassimous-MacBook-Pro project2 % [K[?2004h

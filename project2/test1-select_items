@@ -1,0 +1,24 @@
+Script started on Mon Jul  3 20:18:12 2023
+[1m[7m%[27m[1m[0m                                                                                                               [0m[27m[24m[Jalgassimou@Algassimous-MacBook-Pro project2 % [K[?2004h./a.out       ccd "/Volumes/academic data/project2/" && g++ shoppinCart.cpp -o s [KhhoppinCart && "/Volumes/academic data/project2/"shoppinCart[?2004l
+Welcome to XXX SHOPPING CENTER.
+Enter the item you selected as the following order:
+name unitPrice quantity
+peb n 34 2
+Want to continue y/n--> b n
+Here is your order:
+-------------------------------------------------
+Name  Unit_Price Quantity
+pen     $34        2
+The total charge is $68.00
+--------------------------------------------------
+Want to modify your order? y/n--> n
+Here is your order:
+-------------------------------------------------
+Name  Unit_Price Quantity
+pen     $34.00        2
+The total charge is $68.00
+--------------------------------------------------
+Thanks for shopping in XXX SHOPPING CENTER.
+[1m[7m%[27m[1m[0m                                                                                                               [0m[27m[24m[Jalgassimou@Algassimous-MacBook-Pro project2 % [K[?2004h[?2004l
+
+Script done on Mon Jul  3 20:19:01 2023
