@@ -1,0 +1,15 @@
+Script started on Fri 14 Jul 2023 08:34:22 PM CDT
+]0;el8524jv@csci4:~/csci301/project5[?1034h[el8524jv@csci4 project5]$ g++ infixCalc.cppls[Kg++ infixCalc.cppls[Kcd project5ls[Kcd csci301ls[Kmv project5 /home/STCLOUDSTATE/el8524jv/csci301/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd csci301ls[Kcd project5ls[Kg++ infixCalc.cpp[K./main
+Enter an infix expression (q to quit): 2*(2+4)/2
+The postfix expression is: 224+*2/
+Result: 6
+Enter an infix expression (q to quit): 3-4
+The postfix expression is: 34-
+Result: -1
+Enter an infix expression (q to quit): 5+4? /3
+The postfix expression is: 543/+
+Result: 6
+Enter an infix expression (q to quit): q
+]0;el8524jv@csci4:~/csci301/project5[el8524jv@csci4 project5]$ exit
+
+Script done on Fri 14 Jul 2023 08:36:04 PM CDT

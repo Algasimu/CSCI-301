@@ -1,0 +1,15 @@
+Script started on Fri 14 Jul 2023 08:48:36 PM CDT
+]0;el8524jv@csci4:~/csci301/project5[?1034h[el8524jv@csci4 project5]$ /[K./main
+Enter an infix expression (q to quit): 45+4
+The postfix expression is: 454+
+Result: 9
+Enter an infix expression (q to quit): 3+45
+The postfix expression is: 345+
+Result: 9
+Enter an infix expression (q to quit): 345-2
+The postfix expression is: 3452-
+Result: 3
+Enter an infix expression (q to quit): q
+]0;el8524jv@csci4:~/csci301/project5[el8524jv@csci4 project5]$ exit
+
+Script done on Fri 14 Jul 2023 08:49:39 PM CDT
