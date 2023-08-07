@@ -1,0 +1,30 @@
+Script started on Wed 19 Jul 2023 07:09:57 PM CDT
+]0;el8524jv@csci4:~/csci301/Project6[?1034h[el8524jv@csci4 Project6]$ lsrm test2 test3ls[K[K[K./a.out
+Choose the FrontList implementation:
+1. Composition (Approach 1)
+2. Public Inheritance (Approach 2)
+3. Private Inheritance (Approach 3)
+Enter your choice (1, 2, or 3): 1
+Enter an item to insert: 3
+Item inserted successfully.
+Front item: 3
+Item removed successfully.
+Do you want to continue? (y/n): y
+Enter an item to insert: 7
+Item inserted successfully.
+Front item: 7
+Item removed successfully.
+Do you want to continue? (y/n): 3 y
+Enter an item to insert: 45
+Item inserted successfully.
+Front item: 45
+Item removed successfully.
+Do you want to continue? (y/n): y
+Enter an item to insert: 30
+Item inserted successfully.
+Front item: 30
+Item removed successfully.
+Do you want to continue? (y/n): n
+]0;el8524jv@csci4:~/csci301/Project6[el8524jv@csci4 Project6]$ ∂[Kexit
+
+Script done on Wed 19 Jul 2023 07:11:15 PM CDT

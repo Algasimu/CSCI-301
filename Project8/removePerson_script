@@ -1,0 +1,46 @@
+Script started on Tue 01 Aug 2023 09:35:07 PM CDT
+]0;el8524jv@csci4:~/csci301/Project8[?1034h[el8524jv@csci4 Project8]$ ./a.out
+Welcome to xxx database system. Please enter the file that contains the initial people list: people.txt
+The initial database built from the input file is displayed by its original order:
+Alga 3 4 2000
+Jack 5 5 5555
+Jane 2 2 2222
+Mari 4 5 2000
+Mark 5 7 1990
+Please enter your option
+1. Add a new person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database sorted by names
+7. Quit and save the database to a file
+-->2
+Enter name to remove: Jane 2 2 2222
+Person removed.
+Please enter your option
+1. Add a new person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database sorted by names
+7. Quit and save the database to a file
+-->5
+Displaying the database:
+Alga 3 4 2000
+Jack 5 5 5555
+Mari 4 5 2000
+Mark 5 7 1990
+Please enter your option
+1. Add a new person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database sorted by names
+7. Quit and save the database to a file
+-->^C
+]0;el8524jv@csci4:~/csci301/Project8[el8524jv@csci4 Project8]$ exit
+
+Script done on Tue 01 Aug 2023 09:36:23 PM CDT

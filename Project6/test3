@@ -1,0 +1,35 @@
+Script started on Wed 19 Jul 2023 07:20:31 PM CDT
+]0;el8524jv@csci4:~/csci301/Project6[?1034h[el8524jv@csci4 Project6]$ ./a/[K.out
+Choose the FrontList implementation:
+1. Composition (Approach 1)
+2. Public Inheritance (Approach 2)
+3. Private Inheritance (Approach 3)
+Enter your choice (1, 2, or 3): 3
+Enter an item to insert: 4
+Item inserted successfully.
+Front item: 4
+Item removed successfully.
+Do you want to continue? (y/n): y
+Enter an item to insert: 56
+Item inserted successfully.
+Front item: 56
+Item removed successfully.
+Do you want to continue? (y/n): y
+Enter an item to insert: 0
+Item inserted successfully.
+Front item: 0
+Item removed successfully.
+Do you want to continue? (y/n): y
+Enter an item to insert: 90
+Item inserted successfully.
+Front item: 90
+Item removed successfully.
+Do you want to continue? (y/n): y
+Enter an item to insert: 1
+Item inserted successfully.
+Front item: 1
+Item removed successfully.
+Do you want to continue? (y/n): n
+]0;el8524jv@csci4:~/csci301/Project6[el8524jv@csci4 Project6]$ exit
+
+Script done on Wed 19 Jul 2023 07:21:29 PM CDT

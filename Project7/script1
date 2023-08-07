@@ -1,0 +1,30 @@
+Script started on Wed 26 Jul 2023 04:00:02 PM CDT
+]0;el8524jv@csci4:~/csci301/Project7[?1034h[el8524jv@csci4 Project7]$ lscat test1ls[K[K./a.out
+Enter the name of the file: file1.txt
+Processing an arrival event at time: 1
+Processing an arrival event at time: 2
+Processing an arrival event at time: 4
+Processing a departure event at time: 6
+Processing a departure event at time: 7
+Processing a departure event at time: 9
+Processing an arrival event at time: 20
+Processing an arrival event at time: 22
+Processing an arrival event at time: 24
+Processing a departure event at time: 25
+Processing an arrival event at time: 26
+Processing a departure event at time: 27
+Processing an arrival event at time: 28
+Processing a departure event at time: 29
+Processing an arrival event at time: 30
+Processing a departure event at time: 31
+Processing a departure event at time: 33
+Processing a departure event at time: 35
+Processing an arrival event at time: 88
+Processing a departure event at time: 91
+Simulation ends.
+Final Statistics:
+Total number of customers processed: 10
+Average amount of time spent waiting: 4.8
+]0;el8524jv@csci4:~/csci301/Project7[el8524jv@csci4 Project7]$ exit
+
+Script done on Wed 26 Jul 2023 04:00:32 PM CDT

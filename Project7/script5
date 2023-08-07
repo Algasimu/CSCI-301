@@ -1,0 +1,18 @@
+Script started on Wed 26 Jul 2023 04:17:43 PM CDT
+]0;el8524jv@csci4:~/csci301/Project7[?1034h[el8524jv@csci4 Project7]$ ./a.out
+Enter the name of the file: file5/ .txt
+Processing an arrival event at time: 2
+Processing a departure event at time: 4
+Processing an arrival event at time: 6
+Processing an arrival event at time: 7
+Processing a departure event at time: 7
+Processing an arrival event at time: 10
+Processing a departure event at time: 12
+Processing a departure event at time: 18
+Simulation ends.
+Final Statistics:
+Total number of customers processed: 4
+Average amount of time spent waiting: 4
+]0;el8524jv@csci4:~/csci301/Project7[el8524jv@csci4 Project7]$ exit
+
+Script done on Wed 26 Jul 2023 04:18:40 PM CDT

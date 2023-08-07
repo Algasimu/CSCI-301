@@ -1,0 +1,10 @@
+Script started on Wed 26 Jul 2023 04:14:08 PM CDT
+]0;el8524jv@csci4:~/csci301/Project7[?1034h[el8524jv@csci4 Project7]$ ls[K[K./a.out
+Enter the name of the file: file4.txt
+Simulation ends.
+Final Statistics:
+Total number of customers processed: 0
+Average amount of time spent waiting: -nan
+]0;el8524jv@csci4:~/csci301/Project7[el8524jv@csci4 Project7]$ exit
+
+Script done on Wed 26 Jul 2023 04:15:00 PM CDT
