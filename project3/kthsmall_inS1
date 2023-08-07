@@ -1,0 +1,9 @@
+Script started on Thu 06 Jul 2023 09:27:18 PM CDT
+]0;el8524jv@csci4:~/csci301/project3[?1034h[el8524jv@csci4 project3]$ ./a.out
+Enter the size of the array: 10
+Enter the elements of the array: 3 4 7 5 6 9 0 3 4 5
+Enter the value of k for the kth smallest element: 4
+The kth smallest element is: 5
+]0;el8524jv@csci4:~/csci301/project3[el8524jv@csci4 project3]$ exit
+
+Script done on Thu 06 Jul 2023 09:28:22 PM CDT
